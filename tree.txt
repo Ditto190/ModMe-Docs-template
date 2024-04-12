@@ -1,0 +1,67 @@
+Folder PATH listing for volume Windows
+Volume serial number is 14E2-DA36
+C:.
+¦   .gitignore
+¦   .readthedocs.yaml
+¦   lumache.py
+¦   package.json
+¦   pyproject.toml
+¦   README.rst
+¦   requirements.txt
+¦   tree.txt
+¦   
++---.github
+¦   +---workflows
+¦           python-package-conda.yml
+¦           python-package.yml
+¦           
++---docs
+¦   ¦   make.bat
+¦   ¦   Makefile
+¦   ¦   requirements.txt
+¦   ¦   
+¦   +---source
+¦           api.rst
+¦           conf.py
+¦           index.rst
+¦           usage.rst
+¦           
++---modify_me
+    ¦   .editorconfig
+    ¦   .gitignore
+    ¦   .travis.yml
+    ¦   AUTHORS.rst
+    ¦   CODE_OF_CONDUCT.rst
+    ¦   CONTRIBUTING.rst
+    ¦   HISTORY.rst
+    ¦   LICENSE
+    ¦   Makefile
+    ¦   MANIFEST.in
+    ¦   pyproject.toml
+    ¦   README.rst
+    ¦   requirements_dev.txt
+    ¦   ruff.toml
+    ¦   tox.ini
+    ¦   
+    +---docs
+    ¦       authors.rst
+    ¦       conf.py
+    ¦       contributing.rst
+    ¦       history.rst
+    ¦       index.rst
+    ¦       installation.rst
+    ¦       make.bat
+    ¦       Makefile
+    ¦       readme.rst
+    ¦       usage.rst
+    ¦       
+    +---src
+    ¦   +---modify_me
+    ¦           cli.py
+    ¦           modify_me.py
+    ¦           __init__.py
+    ¦           
+    +---tests
+            test_modify_me.py
+            __init__.py
+            
